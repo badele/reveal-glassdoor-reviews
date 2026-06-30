@@ -1,2 +1,3 @@
 # reveal-glassdoor-reviews
-Reveal Glassdoor reviews
+
+Reveal blurred Glassdoor reviews without sharing your own
